@@ -1,0 +1,22 @@
+{
+  "name": "examprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadhavaboli/examprac.git"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadhavaboli/examprac/issues"
+  },
+  "homepage": "https://github.com/jadhavaboli/examprac#readme"
+}
